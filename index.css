@@ -1,0 +1,38 @@
+body{
+  margin: 0px;
+}
+.container{
+  text-align: center;
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-around;
+  width: 575px;
+  height: 385px;
+  background-color: #1B244A;
+  color: white;
+  font-family: Verdana;
+  border-radius: 15px;
+  border: 3px solid blueviolet;
+}
+.score{
+  margin: 20px;
+  width: 155px;
+  height: 120px;
+  background-color: #080001;
+  color: red;
+  font-size: 90px;
+  border-radius: 5px;
+}
+.column{
+  margin: 50px auto 50px auto;
+}
+button{
+  width: 50px;
+  height: 50px;
+  border-radius: 6px;
+  font-size: 1.5rem;
+  border: 2px solid #9AABD8;
+  background-color: #1B244A;
+  cursor: pointer;
+  color: white;
+}
