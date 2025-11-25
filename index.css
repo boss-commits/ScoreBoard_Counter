@@ -18,6 +18,7 @@ body{
   border: 3px solid yellow;
 }
 .score{
+  padding-top: 25px;
   margin: 20px;
   width: 155px;
   height: 120px;
@@ -25,6 +26,7 @@ body{
   color: red;
   font-size: 90px;
   border-radius: 5px;
+  font-family: 'Cursed Timer ULiL', sans-serif;  
 }
 .column{
   margin: 50px auto 50px auto;
@@ -38,6 +40,8 @@ button{
   background-color: #1B244A;
   cursor: pointer;
   color: white;
+  font-family: 'Cursed Timer ULiL', sans-serif;                                                                   
+                                                
 }
 #csk{
   background-color: yellow;
